@@ -95,7 +95,7 @@ function App() {
         <section className="contact-me" id = "contact-me">
             <h1>Contact Me</h1>
             <ul>
-                <li>210-630-1120</li>
+                <li><a href = "https://www.linkedin.com/in/jonathan-foster-b0999990/">LinkedIn</a></li>
                 <li><a href = "mailto:4jonathanfoster@gmail.com.com">4jonathanfoster@gmail.com</a></li>
                 <li><a href = "https://github.com/4jonathanfoster">Github</a></li>
 
