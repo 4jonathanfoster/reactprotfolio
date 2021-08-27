@@ -12,7 +12,7 @@ function App() {
             <li><a href = "#about-me">About Me</a></li>
             <li><a href = "#work">Work</a></li>
             <li><a href = "#contact-me">Contact Me</a></li>
-            <li><a href = "./assets/photos//photos/Resume.pdf">Resume</a></li>
+            <li><a href = "./assets/photos/Resume.pdf">Resume</a></li>
             <li><a href = "https://www.linkedin.com/in/jonathan-foster-b0999990/">linkedin</a></li>
             
         
