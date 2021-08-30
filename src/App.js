@@ -41,7 +41,7 @@ function App() {
 
                 <div className="project-card" id = "main-card">
                     <a href = "https://4jonathanfoster.github.io/JGF-Code-Refactor/">
-                    <img src = "./assets/photos/horiseon-refactor.png" />
+                    <img src = "./assets/photos/horiseon-refactor.png" alt = "refactor" />
                     </a>
                     <div>
                         <h3>Code Refactoring</h3>
@@ -51,7 +51,7 @@ function App() {
 
                 <div className="project-card">
                     <a href = "https://4jonathanfoster.github.io/Weather-API/">
-                    <img src = "./assets/photos/weather.png "/>
+                    <img src = "./assets/photos/weather.png " alt ="weather"/>
                 </a>
                     <div>
                         <h3>Weather Dashboard</h3>
@@ -61,7 +61,7 @@ function App() {
 
                 <div className="project-card">
                     <a href = "https://4jonathanfoster.github.io/Quiz-Master/">
-                        <img src = "./assets/photos/Quiz.png"/>
+                        <img src = "./assets/photos/Quiz.png" alt = "quiz"/>
                         </a>
                     <div>
                         <h3>Work Day Scheduler</h3>
@@ -71,7 +71,7 @@ function App() {
 
                 <div className="project-card"> 
                     <a href = "https://4jonathanfoster.github.io/TopTourist/">
-                            <img src = "./assets/photos/TopTourist.png"/>
+                            <img src = "./assets/photos/TopTourist.png"  alt = "toptourist"/>
                                 </a>
                             <div>
                                 <h3>Top Tourist</h3>
@@ -81,7 +81,7 @@ function App() {
 
                 <div className="project-card">
                     <a href = "https://4jonathanfoster.github.io/meet-up/">
-                        <img src = "./assets/photos/meetup.png" />
+                        <img src = "./assets/photos/meetup.png" alt = "meetup"/>
                         </a>
                         <div>
                             <h3>Meet up  </h3>
